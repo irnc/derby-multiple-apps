@@ -5,6 +5,7 @@
   "main": "./server.js",
   "dependencies": {
     "derby": "*",
+    "tracks": "~0.1.10",
     "express": "3.x",
     "gzippo": ">=0.2.0"
   },
